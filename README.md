@@ -1,7 +1,6 @@
 # Cldr Calendar Formatting
 
-[ex_cldr_calendars_format](https://hex.pm/packages/cldr_calendars_format) provides a framework for formatting [calendars](https://hex.pm/packages/cldr_calendars) for output.  It includes example formatters for HTML (`Cldr.Calendar.Formatter.HTML.Basic`), HTML for week-based calendars (`Cldr.Calendar.Formatter.HTML.Week`) and Markdown (`Cldr.Calendar.Formatter.Markdown`).
-
+[ex_cldr_calendars_format](https://hex.pm/packages/ex_cldr_calendars_format) provides a framework for formatting [calendars](https://hex.pm/packages/ex_cldr_calendars) for output.  It includes example formatters for HTML (`Cldr.Calendar.Formatter.HTML.Basic`), HTML for week-based calendars (`Cldr.Calendar.Formatter.HTML.Week`) and Markdown (`Cldr.Calendar.Formatter.Markdown`).
 These examples may be used as-is but supporting the development of formatters that meet specific requirements is a design objective which is implemented via the `Cldr.Calendar.Formatter` behaviour.
 
 ## Getting Started
